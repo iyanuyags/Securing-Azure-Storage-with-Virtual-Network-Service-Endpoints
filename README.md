@@ -13,7 +13,7 @@ All resources were deployed in the West US region.
 
 Securing Azure Storage with Service Endpoints
 
-During this lab, I:
+During this lab, I successfully completed the following:
 1. Provisioned a Virtual Network (VNet).
 2. Configured separate Public and Private subnets.
 3. Enabled a Service Endpoint for Azure Storage on the private subnet.
