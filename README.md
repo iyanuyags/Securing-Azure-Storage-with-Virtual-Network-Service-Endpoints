@@ -47,7 +47,7 @@ During this lab, I successfully completed the following:
 
 ## Network Security Group Configuration
 
-### NSG for Private Subnet (`myNsgPrivate`)
+### NSG for Private Subnet (myNsgPrivate)
 
 **Outbound Rules**
 - Allow traffic to Azure Storage (Service Tag: Storage)
